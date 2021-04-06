@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/bhagesh-codebeast/bhagesh-codebeast/header.png "Header" )](https://www.linkedin.com/in/bhagesh-hunakunti/)
+[![Header](https://github.com/bhagesh-codebeast/bhagesh-codebeast/blob/main/header.png "Header" )](https://www.linkedin.com/in/bhagesh-hunakunti/)
 
 <!--
 **bhagesh-codebeast/bhagesh-codebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
