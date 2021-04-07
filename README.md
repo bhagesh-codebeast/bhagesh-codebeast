@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -7,16 +9,20 @@
 ![](https://img.shields.io/badge/Tools-Nextflow-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## GitHub stats
 ![Bhagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagesh-codebeast&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagesh-codebeast&layout=compact&theme=gotham&custom_title=Statistics)
+
+Get in touch with me :
+
+[![](https://img.shields.io/badge/linkedin-bhageshhunakunti-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/bhagesh-hunakunti/)
+![](https://img.shields.io/badge/mail-hunakuntibhagesh@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=bhagesh-codebeast&color=1A4730&theme=dark)
 
@@ -68,12 +74,6 @@ eg:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagesh-codebeast&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bhagesh's GitHub Stats" />
 </a>
 
-4. References:
-
-- banner: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/ABSphreak.md
-- profile views: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/AkhilGKrishnan.md
-- youtube: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/DenverCoder1.md
-- layout: https://github.com/frozrt
 
 Here are some ideas to get you started:
 
