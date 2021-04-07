@@ -16,8 +16,9 @@
 
 ## GitHub stats
 ![Bhagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagesh-codebeast&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagesh-codebeast&layout=compact&theme=gotham&custom_title=Statistics)
 
-![Bhagesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagesh-codebeast&show_icons=true&theme=dark)
+![ViewCount](https://komarev.com/ghpvc/?username=bhagesh-codebeast&color=1A4730&theme=dark)
 
 
 
