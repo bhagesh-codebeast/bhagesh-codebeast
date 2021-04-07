@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Header](https://github.com/bhagesh-codebeast/bhagesh-codebeast/blob/main/header.png "Header" )](https://www.linkedin.com/in/bhagesh-hunakunti/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -50,6 +49,8 @@
 
 <!--
 **bhagesh-codebeast/bhagesh-codebeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Header](https://github.com/bhagesh-codebeast/bhagesh-codebeast/blob/main/header.png "Header" )](https://www.linkedin.com/in/bhagesh-hunakunti/)
 
 1. to add images:
 [![Header](https://github.com/bhagesh-codebeast/bhagesh-codebeast/blob/main/header.png "Header" )](https://www.linkedin.com/in/bhagesh-hunakunti/)
