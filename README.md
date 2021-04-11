@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Bhagesh Hunakunti
+I am Currently pursuing Masters in Bioinformatics, at Manipal School of Life Sciences, Manipal.
 
+I am a digital Artist and a trained Biotechnologist
 
+I find research interest in the field of Genetics and Bioinformatics. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
