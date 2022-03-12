@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Bhagesh
-I am Currently pursuing Masters in Bioinformatics, at Manipal School of Life Sciences, Manipal.
-I am a digital Artist and a trained Biotechnologist.
+
+A small town boy who is curious about almost everything in sight, working as a Bioinformatician in KMC, Manipal and on a never ending mission of building things that hopefully will not break and stand the test of time. 
+A coding nerd in the day and a digital artist by nght.
 I find research interest in the field of Genetics and Bioinformatics. 
 
 ## 🔧 Technologies & Tools
